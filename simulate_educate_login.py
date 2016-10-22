@@ -74,5 +74,5 @@ class JDZXY(object):
         grade = self.getGrade()
         self.buildXls(grade)
 
-jdz = JDZXY(name='grade', stuid='130304060125', password='cqy199411306lv')
+jdz = JDZXY(name='grade', stuid='xxxxxxxxxx', password='xxxxxxxxxxx')
 jdz.start()
